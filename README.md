@@ -1,4 +1,4 @@
-# AI Shell Script
+# Command Line AI Script
 
 This shell script provides a command-line interface to interact with OpenAI's GPT models, allowing users to have conversations and get AI-generated responses directly in their terminal.
 
